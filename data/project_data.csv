@@ -1,0 +1,16 @@
+ID,Descricao,Responsavel,Status,DataInicio,DataFimPrevista,DataFimReal,Prioridade,HorasEstimadas,HorasReais
+1,Definir escopo do projeto X,Ana Silva,Concluído,2024-01-05,2024-01-10,2024-01-09,Alta,20,18
+2,Levantar requisitos com stakeholders,Bruno Costa,Em Andamento,2024-01-11,2024-01-18,,Alta,30,
+3,Desenvolver protótipo da interface,Carla Dias,Pendente,2024-01-19,2024-01-26,,Média,40,
+4,Realizar testes unitários do módulo A,Daniel Alves,Em Andamento,2024-01-22,2024-02-02,,Alta,50,
+5,Documentar API de integração,Elisa Ferreira,Pendente,2024-02-05,2024-02-16,,Baixa,25,
+6,Apresentar resultados da fase 1,Ana Silva,Concluído,2024-02-19,2024-02-20,2024-02-20,Alta,8,8
+7,Coletar feedback do cliente,Bruno Costa,Em Andamento,2024-02-21,2024-02-28,,Média,15,
+8,Ajustar cronograma do projeto,Carla Dias,Pendente,2024-03-01,2024-03-05,,Alta,10,
+9,Desenvolver funcionalidade de login,Daniel Alves,Concluído,2024-01-15,2024-01-25,2024-01-24,Alta,35,38
+10,Testar integração com sistema legado,Elisa Ferreira,Pendente,2024-03-06,2024-03-15,,Média,45,
+11,Preparar ambiente de homologação,Ana Silva,Em Andamento,2024-03-18,2024-03-22,,Alta,20,
+12,Treinar usuários chave,Bruno Costa,Pendente,2024-03-25,2024-03-29,,Média,30,
+13,Corrigir bugs reportados na UAT,Carla Dias,Pendente,2024-04-01,2024-04-12,,Alta,60,
+14,Implantar solução em produção,Daniel Alves,Pendente,2024-04-15,2024-04-19,,Crítica,40,
+15,Monitorar sistema pós-implantação,Elisa Ferreira,Pendente,2024-04-22,2024-05-03,,Alta,20,
