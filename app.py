@@ -69,7 +69,7 @@ DATA_FILE_PATH = "data/project_data.csv"
 df_tasks = load_data(DATA_FILE_PATH)
 
 if df_tasks is None:
-    st.error(f"Não foi possível carregar os dados do arquivo 
+    st.error(f"Não foi possível carregar os dados do arquivo '{DATA_FILE_PATH}'. Verifique se o arquivo existe e está formatado corretamente.")
     st.stop()
 
 # --- Barra Lateral para Filtros ---
